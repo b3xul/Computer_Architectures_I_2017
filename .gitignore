@@ -1,0 +1,5 @@
+*.debug
+*.list
+*.symbol
+*.exe
+*.exe_
